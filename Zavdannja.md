@@ -1,0 +1,2 @@
+- Format TXT, kozhen virsh na novomu rjadku
+- Format USFM, formatuvannja za BSB
